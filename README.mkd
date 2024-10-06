@@ -1,0 +1,3 @@
+## Exemplo de Multistage Building com Go 
+
+Este repositório contém um exemplo de como utilizar **Multistage Building** com **Docker** para construir e executar uma aplicação Go. O conceito de Multistage Building permite otimizar o tamanho da imagem final, separando a construção da aplicação e a execução em diferentes etapas.
